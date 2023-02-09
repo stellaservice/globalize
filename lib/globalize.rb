@@ -5,7 +5,6 @@ require 'patches/active_record/query_method'
 require 'patches/active_record/relation'
 require 'patches/active_record/serialization'
 require 'patches/active_record/uniqueness_validator'
-require 'patches/active_record/persistence'
 require 'patches/active_support/inflections'
 
 module Globalize
